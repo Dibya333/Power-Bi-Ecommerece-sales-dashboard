@@ -1,6 +1,6 @@
 # demo-new
-This is my first Git Repository
+This is my first Git Repository.
 <br>
-I am explore everthing
+I am explore everthing.
 <br>
 Author-Dev
